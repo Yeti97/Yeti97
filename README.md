@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yeti97
 - 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning Kubernetes
 
 <!---
 Yeti97/Yeti97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
